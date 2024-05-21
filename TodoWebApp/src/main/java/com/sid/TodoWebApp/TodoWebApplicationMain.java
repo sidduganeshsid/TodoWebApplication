@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TodoWebAppApplication {
+public class TodoWebApplicationMain {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TodoWebAppApplication.class, args);
+		SpringApplication.run(TodoWebApplicationMain.class, args);
 	}
 
 }
